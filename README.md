@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yingjie Xu
+### Hi there, I'm Yingjie Xu 👋
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/yingjie-xu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/yingjie-xu-0619/)  
 
