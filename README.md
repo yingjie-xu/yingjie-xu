@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently studying at [McGill University](https://cs.mcgill.ca)  
 - 📫 How to reach me: send me an email at yingjie.xu.code [at] gmail.com
-- 👉 [My website](https://yingjie-xu.web.app/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yingjie-xu&show_icons=true)  ](https://yingjie-xu.web.app/)
 
